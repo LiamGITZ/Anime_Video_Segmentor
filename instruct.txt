@@ -1,0 +1,4 @@
+.venv/bin/python amv_snippets.py input_episodes output_episodes
+
+ python3 youtube_audio.py https://www.youtube.com/watch?v=2fTJOBAdses
+

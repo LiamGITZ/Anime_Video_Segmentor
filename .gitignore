@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual env
+.venv/
+
+# Generated media / local assets
+input_episodes/
+output_episodes/
+output_song/
+*.tmp_amv_audio.wav
+
+# Optional model artifacts
+*.onnx
